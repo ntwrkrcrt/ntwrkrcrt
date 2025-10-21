@@ -1,6 +1,6 @@
 # Hi there, I'm a Backend engineer 👋  
 
-💻 Backend engineer with strong experience in **fintech and blockchain**. I’ve worked on high-load systems, trading bots, and smart contracts. My main focus is building **reliable, scalable, and high-performance services**
+💻 Backend engineer with strong experience in **fintech and blockchain**
 
 ---
 
