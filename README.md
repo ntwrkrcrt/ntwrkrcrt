@@ -1,7 +1,4 @@
-# Hi there, I'm a Backend engineer 👋  
-
-💻 Backend engineer with strong experience in **fintech and blockchain**
-
+# Hi there, I'm a Backend and Blockchain worm
 ---
 
 ## 🚀 Tech Stack
